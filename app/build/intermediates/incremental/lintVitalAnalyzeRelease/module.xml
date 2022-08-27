@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\aa\AndroidStudioProjects\SistemMonitoring\app"
+    name=":app"
+    type="APP"
+    maven="Sistem Monitoring:app:"
+    gradle="7.2.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\aa\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\aa\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
