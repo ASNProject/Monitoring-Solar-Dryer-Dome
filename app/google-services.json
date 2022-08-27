@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831338911053",
+    "firebase_url": "https://monitoring-95d93-default-rtdb.firebaseio.com",
+    "project_id": "monitoring-95d93",
+    "storage_bucket": "monitoring-95d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831338911053:android:98ca9b8eb9db2a1589d304",
+        "android_client_info": {
+          "package_name": "com.example.sistemmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831338911053-tgh3e64lplu33tvronc9b51ldfqkvfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoVBUk85bYrF1-SgOxJoHpPjLh7saoKew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831338911053-tgh3e64lplu33tvronc9b51ldfqkvfl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
