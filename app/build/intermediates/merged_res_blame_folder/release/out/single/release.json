@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_wmi.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/wmi.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_logo.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_watt.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/watt.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_weather2.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/weather2.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sistemmonitoring.app-pngs-8:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_uad.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/uad.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_ic_baseline_copyright_24.xml.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/ic_baseline_copyright_24.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_lux.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/lux.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_asd.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/asd.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/xml_backup_rules.xml.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_sembada.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/sembada.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_humidity.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/humidity.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_weather.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/weather.png"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable_backhum.jpg.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable/backhum.jpg"
+    },
+    {
+        "merged": "com.example.sistemmonitoring.app-merged_res-13:/drawable-v24_wmi.png.flat",
+        "source": "com.example.sistemmonitoring.app-main-14:/drawable-v24/wmi.png"
+    }
+]
